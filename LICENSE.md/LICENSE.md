@@ -1,1 +1,2 @@
 license
+edit license
